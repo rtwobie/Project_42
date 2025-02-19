@@ -2,3 +2,15 @@
 	path = libft
 	url = git@github.com:rtwobie/libft.git
 	branch = main
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:rtwobie/ft_printf.git
+	branch = main
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:rtwobie/get_next_line.git
+	branch = main
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:rtwobie/push_swap.git
+	branch = main
