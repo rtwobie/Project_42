@@ -4,7 +4,7 @@ to clone:
 
 ```
 git clone --recursive https://github.com/rtwobie/Project_42.git\
-git submodule update --init --recursive
+git submodule update --init --recursive --merge
 ```
 
 to update to latest commits:
