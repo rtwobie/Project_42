@@ -9,5 +9,5 @@ git clone --recursive https://github.com/rtwobie/Project_42.git
 to update to latest commits:
 
 ```
-git submodule update --remote --merge
+git submodule update --remote --recursive
 ```
