@@ -14,3 +14,7 @@
 	path = push_swap
 	url = git@github.com:rtwobie/push_swap.git
 	branch = main
+[submodule "minitalk"]
+	path = minitalk
+	url = git@github.com:rtwobie/minitalk.git
+	branch = main
