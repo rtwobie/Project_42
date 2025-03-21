@@ -11,3 +11,9 @@ to update to latest commits:
 ```
 git submodule update --remote --recursive
 ```
+
+to update to latest commits + track main branches in all projects:
+
+```
+git submodule update --remote --recursive --merge
+```
