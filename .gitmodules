@@ -18,3 +18,7 @@
 	path = minitalk
 	url = git@github.com:rtwobie/minitalk.git
 	branch = main
+[submodule "so_long"]
+	path = so_long
+	url = git@github.com:rtwobie/so_long.git
+	branch = main
