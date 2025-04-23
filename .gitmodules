@@ -22,3 +22,6 @@
 	path = so_long
 	url = git@github.com:rtwobie/so_long.git
 	branch = main
+[submodule "philosophers"]
+	path = philosophers
+	url = git@github.com:rtwobie/philosophers.git
