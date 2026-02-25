@@ -31,3 +31,6 @@
 [submodule "cpp_modules"]
 	path = cpp_modules
 	url = git@github.com:rtwobie/cpp_modules.git
+[submodule "cub3d"]
+	path = cub3d
+	url = git@github.com:fgroo/cub3d.git
